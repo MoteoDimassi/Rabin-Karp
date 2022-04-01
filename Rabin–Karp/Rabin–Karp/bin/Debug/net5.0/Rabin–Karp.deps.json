@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rabin–Karp/1.0.0": {
+        "runtime": {
+          "Rabin–Karp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rabin–Karp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

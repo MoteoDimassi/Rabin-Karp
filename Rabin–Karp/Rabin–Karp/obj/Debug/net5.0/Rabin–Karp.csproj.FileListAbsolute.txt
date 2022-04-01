@@ -1,0 +1,16 @@
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp.deps.json
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp.runtimeconfig.json
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp.runtimeconfig.dev.json
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp.dll
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/bin/Debug/net5.0/Rabin–Karp.pdb
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.csproj.AssemblyReference.cache
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.AssemblyInfoInputs.cache
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.AssemblyInfo.cs
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.csproj.CoreCompileInputs.cache
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.dll
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/refint/Rabin–Karp.dll
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.pdb
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/Rabin–Karp.genruntimeconfig.cache
+/Users/dmitrijdzioev/Desktop/Rabin–Karp/Rabin–Karp/obj/Debug/net5.0/ref/Rabin–Karp.dll
